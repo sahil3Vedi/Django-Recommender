@@ -62,7 +62,8 @@ NEW_PATH = os.path.join(DATA_DIR, newcsv)
 
 # Now we have created a DataFrame in the desired format. We will export the DataFrame to a new CSV File
 
-data.to_csv(path_or_buf=NEW_PATH)
+#commmented out for safety
+#data.to_csv(path_or_buf=NEW_PATH)
 
 # once the movies-refined.csv file is created, the developer still needs to go through the csv file on excel and remove data with incorrect or invalid labels.
 
