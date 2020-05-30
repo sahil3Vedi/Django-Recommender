@@ -1,2 +1,2 @@
 # Django-Recommender
-K Nearest Neighbour Movie Recommender System on Django
+Movie Recommender System using Collaborative Filtering
